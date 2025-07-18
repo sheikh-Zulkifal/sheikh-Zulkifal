@@ -1,3 +1,6 @@
+# 👋 Hi, I'm Zulkifal  
+🎯 Full Stack Developer by profession, lifelong explorer of code and creativity.
+
 # 💫 About Me:
 I'm a Full Stack Developer with expertise in the MERN stack, driven by a passion for creating scalable web applications and clean, efficient code. Currently pursuing my Bachelor’s in IT, I'm committed to advancing my technical skills and continually learning new technologies. From collaborating on projects to open-source contributions, I enjoy tackling real-world challenges and building impactful digital solutions. Let’s connect and explore the possibilities together!
 
